@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/93602233/209581492-fc76922b-5f9a-4be4-9862-4eecaf7b55d5.png)
-
-<h1 align="center">Hi 👋, I'm Sagar Gupta</h1>
+<h1>Hi 👋, I'm Sagar Gupta</h1>
 <h3 align="center">A passionate frontend developer and I want to explore new Skills.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
