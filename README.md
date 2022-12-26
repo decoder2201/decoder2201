@@ -1,5 +1,3 @@
-![logo](https://user-images.githubusercontent.com/93602233/209580350-ee10324a-8bd1-46d9-bfbd-9d9bbd8cef62.png)
-
 <h1 align="center">Hi 👋, I'm Sagar Gupta</h1>
 <h3 align="center">A passionate frontend developer and I want to explore new Skills.</h3>
 
