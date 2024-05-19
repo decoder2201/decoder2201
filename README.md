@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React JS & Node JS**
 
-- 👨‍💻 All of my projects are available at [https://decoder2201.github.io/Portfolio-Website/](https://decoder2201.github.io/Portfolio-Website/)
-
 - 💬 Ask me about **My Skills**
 
 - 📫 How to reach me **sagar2003gupta@gmail.com**
