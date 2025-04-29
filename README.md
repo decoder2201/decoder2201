@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder2201&label=Profile%20views&color=0e75b6&style=flat" alt="decoder2201" /> </p>
 
-- 🌱 I’m currently learning **React JS & Node JS**
+- 🌱 I’m currently learning **Data Scientist**
 
 - 💬 Ask me about **My Skills**
 
