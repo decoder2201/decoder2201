@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Sagar Gupta</h1>
-<h3 align="center">A passionate frontend developer and I want to explore new Skills.</h3>
+<h3 align="center">A passionate SQL developer and I want to explore new Skills.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder2201&label=Profile%20views&color=0e75b6&style=flat" alt="decoder2201" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Engineer**
 
 - 💬 Ask me about **My Skills**
 
